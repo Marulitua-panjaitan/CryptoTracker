@@ -104,7 +104,7 @@ export default function ClientLayout({ children }: { children: React.ReactNode }
           <div className="header-inner" style={{ display: 'flex', alignItems: 'center', width: '100%', justifyContent: 'space-between' }}>
             <Link href="/" style={{ display: 'flex', alignItems: 'center', gap: '8px', textDecoration: 'none' }}>
               <div style={{ width: '32px', height: '32px', borderRadius: '8px', background: 'linear-gradient(135deg, #3b82f6 0%, #1d4ed8 100%)', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
-                <span style={{ color: 'white', fontWeight: 'bold' }}>C</span>
+                <span style={{ color: 'white', fontWeight: 'bold' }}>rC</span>
               </div>
               <span className="logo-text" style={{ fontSize: '17px', fontWeight: '900', color: 'white' }}>ruliCrypto</span>
             </Link>
